@@ -1,7 +1,8 @@
-Hi 👋 My name is Hatu Denis-Alexandru
+Hi 👋,I'm Hatu Denis
 =====================================
 
-Student
+Student at National University of Science and Technology Politehnica Bucharest
+Bachelor Degree at Faculty of Automatic Control and Computers Science (2022-2026)
 -------
 
 I am a passionate and driven student at the Faculty of Automatic Control and Computers, fueled by a deep enthusiasm for problem-solving and learning new things.
