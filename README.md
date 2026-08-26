@@ -46,5 +46,4 @@
 
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-deniz2104-181717?style=flat&logo=github)](https://github.com/deniz2104)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hatu%20Denis-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/hatu-denis-154a42308/)
