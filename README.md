@@ -1,6 +1,7 @@
 ## Student at National University of Science and Technology Politehnica Bucharest
 
 **Masters Degree at Faculty of Automatic Control and Computer Science (2026-2028)**
+
 **Bachelor Degree at Faculty of Automatic Control and Computer Science (2022-2026)**
 
 ## Working Experience
