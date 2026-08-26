@@ -8,6 +8,12 @@
 
 **Junior Data Engineer @Lobyco (Nov. 2025 - Present)**
 
+  -  Wrote ETL JSON configs for Databricks and Azure to deploy the bronze/silver/gold data layers and client-specific shared data bundles, working with other core platform teams to make sure everything landed smoothly for the client.
+  -  Automated deployments by building reusable asset bundles with Terraform and Azure DevOps YAML pipelines.
+  -  Wrote custom PySpark jobs to handle one-off data transformations and schema migrations.
+  -  Wrote SQL queries to validate data after each production deployment and catch issues early.
+  -  Investigated issues flagged on Teams and Jira by digging into Unity Catalog and Delta audit logs to find the root cause.
+
 ## Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -31,7 +37,6 @@
 
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
