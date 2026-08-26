@@ -1,13 +1,7 @@
-# Hi 👋, I'm Hatu Denis
-
 ## Student at National University of Science and Technology Politehnica Bucharest
 
+**Masters Degree at Faculty of Automatic Control and Computer Science (2026-2028)**
 **Bachelor Degree at Faculty of Automatic Control and Computer Science (2022-2026)**
-
-I am a passionate and driven student at the Faculty of Automatic Control and Computers, fueled by a deep enthusiasm for problem-solving and learning new things.
-
-- 🌍 I'm based in Bucharest
-- 📚 Learning new tech skills every day
 
 ## Skills
 
