@@ -14,6 +14,12 @@
   -  Wrote SQL queries to validate data after each production deployment and catch issues early.
   -  Investigated issues flagged on Teams and Jira by digging into Unity Catalog and Delta audit logs to find the root cause.
 
+**Junior Support Engineer @Themeisle (Jul. 2025 - Sept. 2025)**
+
+  -  Provided first-line technical assistance to customers via Help Scout and wp.org, troubleshooting WordPress sites, themes, and plugins.
+  -  Delivered custom CSS and PHP code and escalated issues to the development team via Github issues.
+  -  Built full-stack analytics platform 1k+ LOC in less than 2 weeks with concurrent API processing, OAuth2 RESTful integration, multi-stage async ETL pipelines, and responsive web UI for automated support analysis.
+
 ## Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
