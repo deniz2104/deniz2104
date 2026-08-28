@@ -8,11 +8,11 @@
 
 **Junior Data Engineer @Lobyco (Nov. 2025 - Present)**
 
-  - Wrote ETL JSON configs for Databricks in order to deploy the bronze/silver/gold data layers and client-specific shared data bundles, working with other core platform teams to make sure everything landed smoothly for the client.
-  - Automated deployments by building reusable asset bundles with Terraform and Azure DevOps YAML pipelines.
-  - Wrote custom PySpark jobs to handle custom data transformations and schema migrations.
-  - Wrote SQL queries to validate data after each production deployment and catch issues early.
-  - Investigated issues flagged on Teams and Jira by digging into Unity Catalog and Delta audit logs to find the root cause.
+  -  Wrote ETL JSON configs for Databricks in order to deploy the bronze/silver/gold data layers and client-specific shared data bundles, working with other core platform teams to make sure everything landed smoothly for the client.
+  -  Automated deployments by building reusable asset bundles with Terraform and Azure DevOps YAML pipelines.
+  -  Wrote custom PySpark jobs to handle custom data transformations and schema migrations.
+  -  Wrote SQL queries to validate data after each production deployment and catch issues early.
+  -  Investigated issues flagged on Teams and Jira by digging into Unity Catalog and Delta audit logs to find the root cause.
 
 ## Skills
 
