@@ -10,10 +10,6 @@
 
 **Junior Support Engineer @Themeisle (Jul. 2025 - Sept. 2025)**
 
-  -  Provided first-line technical assistance to customers via Help Scout and wp.org, troubleshooting WordPress sites, themes, and plugins.
-  -  Delivered custom CSS and PHP code and escalated issues to the development team via Github issues.
-  -  Built full-stack analytics platform with concurrent API processing, OAuth2 RESTful integration, multi-stage async ETL pipelines, and responsive web UI for automated support analysis.
-
 [![CV Preview](./cv-preview.png)](./Denis_Alexandru_Hatu.pdf?raw=true)
 
 ## Skills
