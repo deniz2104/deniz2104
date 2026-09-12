@@ -10,11 +10,6 @@
 
 **Junior Support Engineer @Themeisle (Jul. 2025 - Sept. 2025)**
 
-## Best projects beside CV 
-### See pinned repositories
-
-[![CV Preview](./cv-preview.png)](./Denis_Alexandru_Hatu.pdf?raw=true)
-
 ## Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
