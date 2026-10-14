@@ -6,7 +6,9 @@
 
 ## Working Experience
 
-**Junior Data Engineer @Lobyco (Nov. 2025 - Present)**
+**Junior Data Analyst @CarbonTool (Oct.2026 - Present)**
+
+**Junior Data Engineer @Lobyco (Nov. 2025 - Oct. 2026)**
 
 **Junior Support Engineer @Themeisle (Jul. 2025 - Sept. 2025)**
 
